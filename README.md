@@ -13,7 +13,5 @@ This repository contains my **Object-Oriented Programming (OOP) final project**,
 - 📄 **Documentation.pdf** – Project explanation & technical details  
 - 📊 **Presentation.pptx** – Slides summarizing the project  
 
-## 📥 How to Run the Game
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/flappy-bird-oop.git
+
+
